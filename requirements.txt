@@ -1,4 +1,4 @@
-streamlit
+streamlit>=1.46.1
 pandas
 numpy
-plotly
+plotly>=6.2.0
