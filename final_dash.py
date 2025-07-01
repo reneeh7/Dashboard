@@ -305,7 +305,7 @@ def main():
         "Churn Probability Threshold",
         min_value=0.0,
         max_value=1.0,
-        value=0.7,
+        value=0.85,
         step=0.05,
         help="Users above this threshold are considered at risk"
     )
